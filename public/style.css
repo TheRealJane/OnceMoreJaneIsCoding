@@ -1,0 +1,10 @@
+* {
+    font-size: 1.5rem;
+}
+
+.sendButton {
+    font-family: Tahoma;
+    background-color: rgb(250, 15, 60);
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
