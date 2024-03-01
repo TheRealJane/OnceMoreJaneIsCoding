@@ -1,4 +1,4 @@
-const socket = io('https://prototype-chatroom.onrender.com')
+const socket = io('https://api.render.com/deploy/srv-cngvn8nsc6pc73b669ig?key=mgbJFdC5CDs')
 
 const activity = document.querySelector('.activity')
 const msgInput = document.querySelector('input')
